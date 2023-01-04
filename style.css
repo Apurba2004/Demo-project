@@ -1,0 +1,78 @@
+body {
+  background-color: azure;
+}
+section {
+  display: flex;
+}
+.part1{
+  font-size: larger;
+  width: 50%;
+  padding-left: 5%;
+
+}
+.colour {
+color: orangered;
+}
+.part2{
+  text-decoration: none;
+  background-color: rgba(255, 166, 0, 0.781);
+  padding: 15px 25px;
+  border-radius: 10px;
+  color: azure;
+}
+.link{
+  text-decoration: none;
+  background-color: rgba(255, 166, 0, 0.781);
+  padding: 15px 50px;
+  border-radius: 10px;
+  color: azure;
+}
+.part3 img{
+padding-top: 10%;
+padding-left: 5%;
+
+}
+.part3{
+ font-size: x-large;
+  width: 50%;
+  padding-right: 5%;
+  padding-top: 10%;
+}
+#i{
+  color: crimson;
+}
+#j{
+  color: rgb(18, 32, 151);
+}
+#k{
+  color: rgb(18, 220, 122);
+}
+#l{
+  color: rgb(246, 21, 145);
+}
+.hh1{
+  color: orange;
+  font-size: xx-large;
+  margin-left: 5%;
+}
+#expreence{
+  width: 50%;
+  padding-left: 5%;
+  padding-right: 5%;
+  box-shadow: 10px 10px 30px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  border-left: 10px solid rgba(11, 179, 95, 0.765);
+  border-radius: 20px;
+}
+#expreence2{
+  width: 50%;
+  padding-left: 5%;
+  padding-right: 10%;
+  box-shadow: 10px 10px 40px;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  border-left: 10px solid blue;
+  border-radius: 20px;
